@@ -2,7 +2,8 @@
 
 Groupe Number: 5 
 
-## Groupe Members
+## Group Members
 - Bhupinder Singh 
 - Sitakant Sarangi
 - Amrit Tiwana
+ 
