@@ -1,4 +1,4 @@
-#RemittanceTracker for International Student
+#RemittanceTracker for International Students
 
 Groupe Number: 5 
 
