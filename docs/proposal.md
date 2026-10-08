@@ -36,9 +36,23 @@
 | GET | `/api/exchange-rates?from=CAD&to=INR` | Fetches live conversion rate from Frankfurter API | 200 | 400, 502 |
 
 
+## Wireframes
 
+Photos of paper sketches of the main screens.
 
-Team Roles
+#List
+![List screen sketch](List.jpeg)
+
+## Create
+![Create screen sketch](create.jpeg)
+
+##Detail
+![Detail screen sketch](detail.jpeg)
+
+##Edit
+![Edit screen sketch](edit.jpeg)
+
+#Team Roles
 
 API | Amrit 
 
